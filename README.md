@@ -32,7 +32,7 @@ Upon launching `CCC.app` for the first time, macOS will prompt you to grant **Ac
 - The app currently supports only the **standalone Zoom app** (not browser-based Zoom) and is compatible with **macOS** only.
 
 ## Feedback
-We’d love to hear your thoughts! Please share feedback about:
+I’d love to hear your thoughts! Please share feedback about:
 - Your device
 - The app’s performance
 - Any suggestions for improvement
