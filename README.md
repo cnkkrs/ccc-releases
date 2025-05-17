@@ -7,14 +7,8 @@
 
 ## Bypassing macOS Quarantine
 
-As this app does not yet have an Apple Developer ID, macOS may block it from running due to its quarantine restrictions. Follow these steps to resolve this:
-
-### Option A: Use the Provided Script
-1. Run the `enableCCCapp.command` file included with the app.
-2. This script should remove the quarantine, allowing you to launch `CCC.app`.
-
-### Option B: Manual Quarantine Removal
-If Option A does not work, you can manually remove the quarantine by running the following command in **Terminal**:
+As this app does not yet have an Apple Developer ID, macOS may block it from running due to its quarantine restrictions. 
+You can manually remove the quarantine by running the following command in **Terminal**:
 
 ```bash
 xattr -dr com.apple.quarantine /Applications/CCC.app
